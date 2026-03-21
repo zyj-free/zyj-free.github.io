@@ -6,19 +6,38 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
+#Publications
+# 展示论文、期刊文章、会议论文、预印本等学术成果，通常是学术主页最核心的板块。
+
 
 main:
-  - title: "About"
-    url: /
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Talks"
+  #   url: /talks/    
 
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
   - title: "Projects"
     url: /portfolio/
 
+  - title: "Service"
+    url: /service/
+
+  - title: "Honors"
+    url: /honors/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
   - title: "CV"
     url: /cv/
-
+    
   # - title: "CV"
   #   url: /cv-json/
+    
+  # - title: "Guide"
+  #   url: /markdown/
+
