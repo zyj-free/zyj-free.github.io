@@ -13,9 +13,9 @@ I am **Zheng Yujiao**, currently a junior undergraduate student majoring in **Co
 <!-- I am thrilled to announce that I will be continuing my academic journey as a **Graduate Student** starting in [Month, Year, e.g., September 2026] at [Name of Your Future University/Institute, if decided, otherwise remove this part]. My long-term goal is to bridge the gap between theoretical algorithms and real-world applications, contributing to the advancement of intelligent systems. -->
 
 My current work focuses on:
-- Research direction 1
-- Research direction 2
-- Research direction 3
+- Research direction 1 : **Vision-and-Language Navigation (VLN)**, Developing robust agents for complex 3D environments using Reinforcement Learning and Multi-modal Fusion.
+- Research direction 2 : **Efficient LLM Deployment & Fine-tuning**, Optimizing Large Language Models for edge/cloud deployment, including quantization, LoRA fine-tuning, and latency reduction.
+- Research direction 3 : **Computer Vision (CV)**, Advanced image segmentation (U-Net), object detection (YOLO series), and multi-modal perception for real-world applications.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
