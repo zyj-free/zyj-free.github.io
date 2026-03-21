@@ -13,36 +13,6 @@ Education
 ======
 * **B.E. in Computer Science and Technology**,Northeastern University, Aug 2023 – Present
 * **High School Diploma**, Hengshui Taihua High School (formerly Hengshui No. 1 High School), China | *Sep 2017 – Jun 2020*
-<!-- Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
-<!-- Education
-======
-**Northeastern University** | China
-*Bachelor of Engineering in Computer Science and Technology* | *2023.08 – Present (Expected Graduation: 2027.06)*
-- **GPA**: 4.22/5.0 (Ranked Top 1.53% based on National Scholarship eligibility)
-- **English Proficiency**: 
-  - CET-6 (College English Test Band 6): 515
-  - CET-4 (College English Test Band 4): 580
-- **Academic Highlights**:
-  - Recipient of the **National Scholarship** (2024-2025), the highest honor for undergraduate students in China (Rank 1).
-  - Awarded **University First-Class Comprehensive Scholarship** for three consecutive semesters (2023-2025).
-  - Recognized as **University Model Student Leader (标兵)** (2024-2025). -->
-
 
 Skills
 ======
@@ -131,3 +101,32 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
+<!-- Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git -->
+  
+<!-- Education
+======
+**Northeastern University** | China
+*Bachelor of Engineering in Computer Science and Technology* | *2023.08 – Present (Expected Graduation: 2027.06)*
+- **GPA**: 4.22/5.0 (Ranked Top 1.53% based on National Scholarship eligibility)
+- **English Proficiency**: 
+  - CET-6 (College English Test Band 6): 515
+  - CET-4 (College English Test Band 4): 580
+- **Academic Highlights**:
+  - Recipient of the **National Scholarship** (2024-2025), the highest honor for undergraduate students in China (Rank 1).
+  - Awarded **University First-Class Comprehensive Scholarship** for three consecutive semesters (2023-2025).
+  - Recognized as **University Model Student Leader (标兵)** (2024-2025). -->
