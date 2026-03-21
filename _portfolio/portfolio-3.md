@@ -1,6 +1,6 @@
 ---
 title: "Precision Irrigation System: Multi-modal Sensing & Vision-Guided RL"
-excerpt: "An intelligent agricultural system fusing flexible soil sensors and YOLOv8 vision (92.7% accuracy) with low-latency ICN networking. Winner of National Special Prize (TRIZ Cup) and National Bronze (Innovation Competition). <br/><img src='/images/系统框架.png' alt='System Overview'>"
+excerpt: "An intelligent agricultural system fusing flexible soil sensors and YOLOv8 vision (92.7% accuracy) with low-latency ICN networking. Winner of National Special Prize (TRIZ Cup) and National Bronze (Innovation Competition). <br/><img src='/images/kuangjia.png' alt='System Overview'>"
 collection: portfolio
 tags:
   - IoT & Embedded Systems
@@ -22,13 +22,13 @@ Developed a next-generation **Precision Irrigation System** that bridges the gap
 ##  System Architecture & Workflow
 Our solution integrates four core modules into a seamless closed-loop control system:
 
-![System Workflow](/images/工作流程图.png)
+![System Workflow](/images/GONGZUO.png)
 *Figure: End-to-end workflow from data acquisition (sensors/camera) to edge processing, cloud-based RL decision making, and actuator control.*
 
 ### System Block Diagram
 The core of our solution is a four-layer architecture designed for efficiency and real-time response.
 
-![System Block Diagram](/images/系统框架.png)
+![System Block Diagram](/images/kuangjia.png)
 *Figure: The complete system stack, from perception to execution, connected by an ultra-low latency ICN network.*
 
 ### End-to-End Workflow
@@ -41,9 +41,9 @@ Data flows seamlessly through our pipeline, enabling closed-loop control.
 All major recognitions and intellectual property are shown below.
 
 <div style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 0; scroll-snap-type: x mandatory;">
-  <img src="/images/创新方法大赛获奖证书.jpg" alt="TRIZ Cup National Special Prize" style="width: 85%; max-width: 520px; height: auto; flex: 0 0 auto; border: 1px solid #eee; border-radius: 8px; scroll-snap-align: start;">
-  <img src="/images/挑战杯国家级.jpg" alt="Innovation Competition National Bronze Prize" style="width: 85%; max-width: 520px; height: auto; flex: 0 0 auto; border: 1px solid #eee; border-radius: 8px; scroll-snap-align: start;">
-  <img src="/images//互联网加省赛.jpg" alt="Challenge Cup National Second Prize or Patent Certificate" style="width: 85%; max-width: 520px; height: auto; flex: 0 0 auto; border: 1px solid #eee; border-radius: 8px; scroll-snap-align: start;">
+  <img src="/images/TRIZ.jpg" alt="TRIZ Cup National Special Prize" style="width: 85%; max-width: 520px; height: auto; flex: 0 0 auto; border: 1px solid #eee; border-radius: 8px; scroll-snap-align: start;">
+  <img src="/images/challange-cup.jpg" alt="Innovation Competition National Bronze Prize" style="width: 85%; max-width: 520px; height: auto; flex: 0 0 auto; border: 1px solid #eee; border-radius: 8px; scroll-snap-align: start;">
+  <img src="/images/hu.jpg" alt="Challenge Cup National Second Prize or Patent Certificate" style="width: 85%; max-width: 520px; height: auto; flex: 0 0 auto; border: 1px solid #eee; border-radius: 8px; scroll-snap-align: start;">
 </div>
 
 <p style="font-size: 0.9em; color: #666;">
