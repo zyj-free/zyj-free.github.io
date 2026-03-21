@@ -8,7 +8,6 @@ tags:
   - Game Theory
   - Python
   - PyTorch
-date: 2025-07-01
 ---
 
 ##  Overview
@@ -36,6 +35,7 @@ Our solution introduces a hybrid architecture:
 
 ##  Recognition
 ![Award Certificate](/images/博弈国奖2.png)
+
 *Official certificate from the 2025 China University Student Computer Game Competition — awarded 2nd Place (National First Class Equivalent).*
 ##  Tech Stack
 `Python` `PyTorch` `NumPy` `MCTS` `Git`
