@@ -1,6 +1,6 @@
 ---
 title: "Precision Irrigation System: Multi-modal Sensing & Vision-Guided RL"
-excerpt: "An intelligent agricultural system fusing flexible soil sensors and YOLOv8 vision (92.7% accuracy) with low-latency ICN networking. Winner of National Special Prize (TRIZ Cup) and National Bronze (Innovation Competition). <br/><img src='/images/宸ヤ綔娴佺▼鍥?png' alt='System Overview'>"
+excerpt: "An intelligent agricultural system fusing flexible soil sensors and YOLOv8 vision (92.7% accuracy) with low-latency ICN networking. Winner of National Special Prize (TRIZ Cup) and National Bronze (Innovation Competition). <br/><img src='/images/系统框架.png' alt='System Overview'>"
 collection: portfolio
 tags:
   - IoT & Embedded Systems
