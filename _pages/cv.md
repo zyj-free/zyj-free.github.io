@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **B.E. in Computer Science and Technology**,Northeastern University, Aug 2023 – Present
-* **High School Diploma**, Hengshui Taihua High School (formerly Hengshui No. 1 High School), China | *Sep 2017 – Jun 2020*
+* **High School Diploma**, Hengshui Taihua High School (formerly Hengshui No. 1 High School)，Sep 2017 – Jun 2020
 
 Skills
 ======
