@@ -23,13 +23,13 @@ repository               : "zyj-free/zyj-free.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zyj.png"
+  avatar           : "./images/zyj.png"
   name             : "Zheng Yujiao"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"//研究方向
   location         : "Earth"
   employer         : "Northeastern University"
-  uri              : # URL
+  uri              : https://zyj-free.github.io/
   email            : "zhengyujiao@mails.neu.cn" 
 
   # Academic websites
