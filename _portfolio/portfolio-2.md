@@ -1,6 +1,6 @@
 ---
 title: "Edge-ANNoy: Lightweight Vector Search for Resource-Constrained Devices"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/proj2.png'>"
+excerpt: "Designed Edge-ANNoy, a lightweight approximate nearest neighbor search algorithm for resource-constrained devices, using dual-anchor partitioning to reduce memory complexity from O(dN) to O(N).<br/><img src='/images/proj2.png'>"
 collection: portfolio
 tags:
   - Algorithm Design
