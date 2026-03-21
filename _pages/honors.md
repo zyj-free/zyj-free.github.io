@@ -70,10 +70,7 @@ The gallery below is a convenient way to present all certificates on one page. O
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>First-Class Comprehensive Scholarship, 2024-2025 Fall</em></p>
   </div>
 
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/honors/first-class-scholarship-2024-2025-spring.jpg" alt="First-Class Comprehensive Scholarship 2024-2025 Spring" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>First-Class Comprehensive Scholarship, 2024-2025 Spring</em></p>
-  </div>
+
 
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
     <img src="/images/honors/third-class-scholarship-2023-2024-fall.jpg" alt="Third-Class Comprehensive Scholarship 2023-2024 Fall" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
