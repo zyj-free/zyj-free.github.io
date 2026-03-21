@@ -36,11 +36,6 @@ The gallery below is a convenient way to present all certificates on one page. O
   </div>
 
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/honors/library-outstanding-officer.jpg" alt="Outstanding Student Officer" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>Outstanding Student Officer, 11th Library Student Management Committee</em></p>
-  </div>
-
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
     <img src="/images/honors/social-practice-volunteer.jpg" alt="Advanced Individual in Social Practice and Outstanding Volunteer in Cloud Teaching Support" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>Advanced Individual in Social Practice and Outstanding Volunteer in Cloud Teaching Support</em></p>
   </div>
@@ -48,11 +43,6 @@ The gallery below is a convenient way to present all certificates on one page. O
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
     <img src="/images/honors/merit-student-2023.jpg" alt="Merit Student 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>Merit Student, 2023</em></p>
-  </div>
-
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/honors/model-merit-student-2024.jpg" alt="Model Merit Student 2024" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>Model Merit Student, 2024</em></p>
   </div>
 
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
