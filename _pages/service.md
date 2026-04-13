@@ -91,22 +91,28 @@ author_profile: true
 任职期间，我不仅负责部门的组织建设，更主导了多场大型活动的策划与落地。
 海边音乐会：统筹从舞台搭建到流程控制的各个环节，为师生呈现了一场视听盛宴，极大地丰富了校园文化氛围。
 书虫运动会：创新性地结合体育与阅读元素，策划趣味竞技活动，提升了学生的参与感与归属感。
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;"> -->
-<div style="display: flex; flex-wrap: wrap;gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory;">
-  <!-- 海报 1：马拉松 -->
-  <div style="width: 300px; flex-shrink: 0;">
+<div style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none;">
+  
+  <!-- 隐藏滚动条的兼容代码 -->
+  <style>
+    div::-webkit-scrollbar { display: none; }
+  </style>
+
+  <!-- 海报 1：书虫运动会 -->
+  <!-- scroll-snap-align: start 保证滑动时图片左对齐 -->
+  <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
     <img src="/images/hd_2.png" alt="Marathon Volunteer" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划举办书虫运动会</em></p>
   </div>
 
   <!-- 海报 2：海边音乐会 -->
-  <div style="width: 300px; flex-shrink: 0;">
+  <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
     <img src="/images/hd_3.png" alt="Seaside Concert" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划举办海边音乐会</em></p>
   </div>
 
-  <!-- 海报 3：云支教/挑战杯/工作汇报（请替换为你想展示的第三张图） -->
-  <div style="width: 300px; flex-shrink: 0;">
+  <!-- 海报 3：公益服务 -->
+  <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
     <img src="/images/hd_1.png" alt="Volunteer Service" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划公益服务</em></p>
   </div>
@@ -116,18 +122,28 @@ author_profile: true
 下面是一些活动的现场照片。
 
 <!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;"> -->
-<div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/bumen.jpg" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+<!-- 外层容器：负责开启横向滑动和排列 -->
+<div style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none;">
+  
+  <!-- 图片 1 -->
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/bumen.jpg" alt="部门合照" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>部门合照</em></p>
   </div>
+
+  <!-- 图片 2 -->
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/music.jpg" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <img src="/images/music.jpg" alt="部门合照" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>部门合照</em></p>
   </div>
+
+  <!-- 图片 3 -->
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/sport.jpg" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <img src="/images/sport.jpg" alt="部门合照" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>部门合照</em></p>
-<div>
+  </div>
+
+</div>
 
 📚 班级学习委员：师生间的桥梁
 作为班级学风建设的核心，我负责协调教学事务与收集同学反馈。通过组织学术交流活动，我有效促进了班级内部的良性互动，保障了日常教学工作的顺畅运行。
