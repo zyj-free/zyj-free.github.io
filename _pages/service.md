@@ -24,20 +24,33 @@ author_profile: true
 - **️ ☁️ 云支教志愿者**
 打破地理的界限，通过屏幕传递知识与温暖。我参与了云支教项目，为偏远地区的孩子带去陪伴式教学。这段经历让我深刻理解了教育公平的意义，也培养了我的耐心与同理心。
 
-<div style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 0; scroll-snap-type: x mandatory;">
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/putonghua1.png" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>活动图片1</em></p>
-  </div>
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/putonghua2.png" alt="Merit Student 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>活动图片2</em></p>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;">
+
+  <!-- 海报 1：马拉松 -->
+  <!-- 修改点：宽度改为 500px，去掉了固定高度 450px，改为 auto -->
+  <div style="width: 500px; flex-shrink: 0;">
+    <img src="/images/putonghua1.png" alt="Marathon Volunteer" style="width: 100%; height: auto; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>活动图片1</em></p>
   </div>
 
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
-    <img src="/images/putonghua3.png" alt="Advanced Individual in Social Practice 2025 Winter" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>活动图片3</em></p>
+  <!-- 海报 2：海边音乐会 -->
+  <div style="width: 500px; flex-shrink: 0;">
+    <img src="/images/putonghua2.png" alt="Seaside Concert" style="width: 100%; height: auto; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>活动图片2</em></p>
   </div>
+
+  <!-- 海报 3：云支教/挑战杯 -->
+  <div style="width: 500px; flex-shrink: 0;">
+    <img src="/images/putonghua3.png" alt="Volunteer Service" style="width: 100%; height: auto; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>活动图片3</em></p>
+  </div>
+
+  <!-- 海报 4：京东 -->
+  <div style="width: 500px; flex-shrink: 0;">
+    <img src="/images/jingdong.png" alt="Volunteer Service" style="width: 100%; height: auto; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>研学京东</em></p>
+  </div>
+
 </div>
 
 - **️ ‍♂️ 校运动会志愿者**

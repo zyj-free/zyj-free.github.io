@@ -1,6 +1,6 @@
 ---
 title: "Dots and Boxes AI: Mastering Sparse Rewards with Deep RL & MCTS"
-excerpt: "Built a Dots and Boxes AI that combines Deep Reinforcement Learning with Monte Carlo Tree Search to tackle sparse-reward gameplay and achieve award-winning performance.<br/><img src='/images/iemian.png'，style="max-width: 65%; height: auto;">"
+excerpt: "Built a Dots and Boxes AI that combines Deep Reinforcement Learning with Monte Carlo Tree Search to tackle sparse-reward gameplay and achieve award-winning performance.<br/><img src='/images/iemian.png'>"
 collection: portfolio
 tags:
   - Deep Reinforcement Learning
