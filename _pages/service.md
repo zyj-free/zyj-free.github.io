@@ -17,7 +17,7 @@ author_profile: true
 负责半程马拉松项目的**存取衣服务**。面对数万名参赛者的庞大物资流转，我保持了高度的专注与条理，确保了衣物存取的高效与零失误，保障了选手赛后能第一时间获取物资。
   
  <div style="width: 85%; max-width: 420px; margin: 10px 0;">
-    <img src="/images/marathon.jpg" alt="Marathon Volunteer" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <img src="/images/marathon.png" alt="Marathon Volunteer" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>马拉松志愿服务现场(右二)</em></p>
   </div>
 
