@@ -80,34 +80,34 @@ author_profile: true
 
 在校园工作中，我完成了从执行者到管理者的蜕变，擅长统筹资源与团队建设。
 
-- ** 🎵 校级部门部长：打造校园文化名片 **
-任职期间，我不仅负责部门的组织建设，更主导了多场大型活动的策划与落地。
-海边音乐会：统筹从舞台搭建到流程控制的各个环节，为师生呈现了一场视听盛宴，极大地丰富了校园文化氛围。
-书虫运动会：创新性地结合体育与阅读元素，策划趣味竞技活动，提升了学生的参与感与归属感。
+- **🎵 校级部门部长：打造校园文化名片**
+  任职期间，我不仅负责部门的组织建设，更主导了多场大型活动的策划与落地。
+  **海边音乐会**：统筹从舞台搭建到流程控制的各个环节，为师生呈现了一场视听盛宴，极大地丰富了校园文化氛围。
+  **书虫运动会**：创新性地结合体育与阅读元素，策划趣味竞技活动，提升了学生的参与感与归属感。
 
-
-<!-- 这里的 id="mySlider" 是关键，用来替代 class -->
-<div id="mySlider" style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
-  
+<div id="posterSlider" style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   <!-- 海报 1 -->
   <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
     <img src="/images/hd_2.png" alt="书虫运动会" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划举办书虫运动会</em></p>
   </div>
-
   <!-- 海报 2 -->
   <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
     <img src="/images/hd_3.png" alt="海边音乐会" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划举办海边音乐会</em></p>
   </div>
-
   <!-- 海报 3 -->
   <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
     <img src="/images/hd_1.png" alt="公益服务" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划公益服务</em></p>
   </div>
-
 </div>
+
+<!-- 专门控制滚动条显示的 CSS 样式 -->
+<style>
+  #posterSlider::-webkit-scrollbar { display: none; }
+  #posterSlider { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
 
 下面是一些活动的现场照片。
 
