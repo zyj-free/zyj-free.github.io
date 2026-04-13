@@ -91,39 +91,46 @@ author_profile: true
 任职期间，我不仅负责部门的组织建设，更主导了多场大型活动的策划与落地。
 海边音乐会：统筹从舞台搭建到流程控制的各个环节，为师生呈现了一场视听盛宴，极大地丰富了校园文化氛围。
 书虫运动会：创新性地结合体育与阅读元素，策划趣味竞技活动，提升了学生的参与感与归属感。
-<div style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none;">
-  
-  <!-- 隐藏滚动条的兼容代码 -->
-  <style>
-    div::-webkit-scrollbar { display: none; }
-  </style>
 
-  <!-- 海报 1：书虫运动会 -->
-  <!-- scroll-snap-align: start 保证滑动时图片左对齐 -->
+
+<!-- 这里的 id="mySlider" 是关键，用来替代 class -->
+<div id="mySlider" style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
+  
+  <!-- 海报 1 -->
   <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
-    <img src="/images/hd_2.png" alt="Marathon Volunteer" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
+    <img src="/images/hd_2.png" alt="书虫运动会" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划举办书虫运动会</em></p>
   </div>
 
-  <!-- 海报 2：海边音乐会 -->
+  <!-- 海报 2 -->
   <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
-    <img src="/images/hd_3.png" alt="Seaside Concert" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
+    <img src="/images/hd_3.png" alt="海边音乐会" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划举办海边音乐会</em></p>
   </div>
 
-  <!-- 海报 3：公益服务 -->
+  <!-- 海报 3 -->
   <div style="width: 300px; flex-shrink: 0; scroll-snap-align: start;">
-    <img src="/images/hd_1.png" alt="Volunteer Service" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
+    <img src="/images/hd_1.png" alt="公益服务" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
     <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>策划公益服务</em></p>
   </div>
 
 </div>
 
+<!-- 下面的 style 标签用来隐藏滚动条，必须放在 div 后面或前面，不能放在里面 -->
+<style>
+  #mySlider::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+  #mySlider {
+    -ms-overflow-style: none;  /* IE 10+ */
+    scrollbar-width: none;  /* Firefox */
+  }
+</style>
+
 下面是一些活动的现场照片。
 
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;"> -->
 <!-- 外层容器：负责开启横向滑动和排列 -->
-<div style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none;">
+<div id="slider2" style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   
   <!-- 图片 1 -->
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
@@ -152,8 +159,7 @@ author_profile: true
 
 ### 🎙️ 沟通与表达
 多次工作汇报：习惯于在复盘中成长。我曾多次在部门会议中进行正式的工作汇报与公开展示，擅长运用清晰的逻辑与数据，向团队展示项目成果与未来规划，具备良好的公众表达能力。
-
-<div style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 0; scroll-snap-type: x mandatory;">
+<div id="slider3" style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
     <img src="/images/tuiguang.png" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>部门合照</em></p>
