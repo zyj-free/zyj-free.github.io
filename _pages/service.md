@@ -23,32 +23,21 @@ author_profile: true
 
 - **️ ☁️ 云支教志愿者**
 打破地理的界限，通过屏幕传递知识与温暖。我参与了云支教项目，为偏远地区的孩子带去陪伴式教学。这段经历让我深刻理解了教育公平的意义，也培养了我的耐心与同理心。
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;">
 
-  <!-- 图片 1 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/putonghua1.png" alt="Activity 1" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>活动图片1</em></p>
+<div style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 0; scroll-snap-type: x mandatory;">
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/putonghua1.png" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>活动图片1</em></p>
+  </div>
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/putonghua2.png" alt="Merit Student 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>活动图片2</em></p>
   </div>
 
-  <!-- 图片 2 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/putonghua2.png" alt="Activity 2" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>活动图片2</em></p>
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/putonghua3.png" alt="Advanced Individual in Social Practice 2025 Winter" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>活动图片3</em></p>
   </div>
-
-  <!-- 图片 3 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/putonghua3.png" alt="Activity 3" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>活动图片3</em></p>
-  </div>
-
-  <!-- 图片 4 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/jingdong.png" alt="JD Visit" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>研学京东</em></p>
-  </div>
-
 </div>
 
 - **️ ‍♂️ 校运动会志愿者**
@@ -60,32 +49,25 @@ author_profile: true
 
 - **️ ‍♂️ 返家乡活动——寻访校友足迹**
 走出校园，深入社会肌理。作为“寻访校友足迹”实践团成员，我参与了优秀校友的访谈与记录工作，挖掘前辈们的奋斗故事。我们采访了北京理工大学刘教授，京东王学长，阿里巴巴刘学长。这不仅是一次对校史文化的溯源，更让我在与前辈的对话中明晰了职业规划，增强了社会责任感与爱校情怀。
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;">
 
-  <!-- 图片 1 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/BIT.png" alt="BIT Visit" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>访学北京理工</em></p>
+<div style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 0; scroll-snap-type: x mandatory;">
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/BIT.png" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>访学北京理工</em></p>
+  </div>
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/bit1.png" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>访学北京理工</em></p>
+  </div>
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/albaba.png" alt="Merit Student 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>研学阿里巴巴</em></p>
   </div>
 
-  <!-- 图片 2 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/bit1.png" alt="BIT Visit 2" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>访学北京理工</em></p>
+  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+    <img src="/images/jingdong.png" alt="Advanced Individual in Social Practice 2025 Winter" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>研学京东</em></p>
   </div>
-
-  <!-- 图片 3 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/albaba.png" alt="Alibaba Visit" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>研学阿里巴巴</em></p>
-  </div>
-
-  <!-- 图片 4 -->
-  <div style="width: 300px; flex-shrink: 0;">
-    <img src="/images/jingdong.png" alt="JD Visit" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 8px; text-align: center;"><em>研学京东</em></p>
-  </div>
-
 </div>
 
 ### 🚀 学生工作：从执行到领导
@@ -96,8 +78,8 @@ author_profile: true
 任职期间，我不仅负责部门的组织建设，更主导了多场大型活动的策划与落地。
 海边音乐会：统筹从舞台搭建到流程控制的各个环节，为师生呈现了一场视听盛宴，极大地丰富了校园文化氛围。
 书虫运动会：创新性地结合体育与阅读元素，策划趣味竞技活动，提升了学生的参与感与归属感。
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;">
-
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;"> -->
+<div style="display: flex; flex-wrap: wrap;gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory;">
   <!-- 海报 1：马拉松 -->
   <div style="width: 300px; flex-shrink: 0;">
     <img src="/images/hd_2.png" alt="Marathon Volunteer" style="width: 100%; height: 450px; object-fit: cover; border: 1px solid #eee; border-radius: 8px; display: block;">
@@ -120,8 +102,8 @@ author_profile: true
 
 下面是一些活动的现场照片。
 
-<div style="display: flex; gap: 16px; overflow-x: auto; padding: 12px 0; scroll-snap-type: x mandatory;">
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; padding: 10px 0;"> -->
+<div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
     <img src="/images/bumen.jpg" alt="Outstanding Communist Youth League Member 2023" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>部门合照</em></p>
   </div>
