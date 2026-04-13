@@ -35,9 +35,9 @@ The gallery below is a convenient way to present all certificates on one page. O
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>Outstanding Communist Youth League Member, 2023</em></p>
   </div>
 
-  <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
+  <!-- <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
     <img src="/images/honors/social-practice-volunteer.jpg" alt="Advanced Individual in Social Practice and Outstanding Volunteer in Cloud Teaching Support" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
-    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>Advanced Individual in Social Practice and Outstanding Volunteer in Cloud Teaching Support</em></p>
+    <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>Advanced Individual in Social Practice and Outstanding Volunteer in Cloud Teaching Support</em></p> -->
   </div>
 
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
@@ -69,7 +69,6 @@ The gallery below is a convenient way to present all certificates on one page. O
     <img src="/images/honors/first-class-scholarship-2024-2025-fall.jpg" alt="First-Class Comprehensive Scholarship 2024-2025 Fall" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>First-Class Comprehensive Scholarship, 2024-2025 Fall</em></p>
   </div>
-
 
 
   <div style="width: 85%; max-width: 420px; flex: 0 0 auto; scroll-snap-align: start;">
