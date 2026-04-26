@@ -11,7 +11,7 @@
 
 
 main:
-  - title: "About"
+  - title: "关于"
     url: /
   # - title: "Publications"
   #   url: /publications/
@@ -22,19 +22,19 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Projects"
+  - title: "项目"
     url: /portfolio/
 
-  - title: "Service"
+  - title: "志愿服务与社会工作"
     url: /service/
 
-  - title: "Honors"
+  - title: "荣誉奖项"
     url: /honors/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "简历"
     url: /cv/
     
   # - title: "CV"

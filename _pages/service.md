@@ -9,11 +9,11 @@ author_profile: true
 
 > **核心亮点**：志愿服务时长 **150+** 小时 | **校级部门部长** | **高效执行力**
 
-### 🤝 志愿服务：：细节见证责任
+### 🤝 志愿服务：细节见证责任
 
 投身志愿服务，用脚步丈量责任。在大型赛事与教育支持中贡献自己的力量。
 
-- ** 🏃 马拉松志愿者**
+- **🏃 马拉松志愿者**
 负责半程马拉松项目的**存取衣服务**。面对数万名参赛者的庞大物资流转，我保持了高度的专注与条理，确保了衣物存取的高效与零失误，保障了选手赛后能第一时间获取物资。
   
  <div style="width: 85%; max-width: 420px; margin: 10px 0;">
@@ -21,7 +21,7 @@ author_profile: true
     <p style="font-size: 0.9em; color: #666; margin-top: 6px;"><em>马拉松志愿服务现场(右二)</em></p>
   </div>
 
-- **️ ☁️ 云支教志愿者**
+- **️☁️ 云支教志愿者**
 打破地理的界限，通过屏幕传递知识与温暖。我参与了云支教项目，为偏远地区的孩子带去陪伴式教学。这段经历让我深刻理解了教育公平的意义，也培养了我的耐心与同理心。
 
 <div style="display: flex; gap: 16px; overflow-x: auto; padding: 10px 0; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
@@ -46,7 +46,7 @@ author_profile: true
 
 </div>
 
-- **️ ‍♂️ 校运动会志愿者**
+- **️♂️ 校运动会志愿者**
 投身校园体育盛事，负责赛场秩序维护与后勤保障。在激烈的竞技氛围中，我坚守岗位，协助裁判记录成绩并引导运动员有序进退场。这段经历不仅让我感受到了拼搏的体育精神，更在繁忙的调度中锻炼了临场应变能力与团队协作意识。
 <div style="width: 85%; max-width: 420px; margin: 10px 0;">
     <img src="/images/sport_meeting.png" alt="Sport Meeting" style="width: 100%; height: auto; border: 1px solid #eee; border-radius: 8px;">

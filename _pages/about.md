@@ -22,6 +22,8 @@ redirect_from:
 - 研究方向 1：**视觉与语言导航（VLN）**，利用强化学习和多模态融合技术，聚焦目标导航，开发能够在复杂 3D 环境中实现有效导航功能的智能体。
 - 研究方向 2：**高效大语言模型部署与微调**，针对端侧或云端部署对大语言模型进行优化，具体涉及量化、LoRA 微调以及延迟降低等技术。
 - 研究方向 3：**计算机视觉**，专注于面向实际应用的高级图像分割（如 U-Net）、目标检测（如 YOLO 系列）以及多模态感知研究。
+
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
@@ -40,9 +42,9 @@ redirect_from:
 - **📐 数学基础**:线性代数, 概率论, 高等数学, 离散数学
 - **⚙️ 工具**:Origin, Git, Linux/云环境
 
-Contact
+<!-- Contact
 ======
-Please feel free to contact me by email at `zhengyujiao@mails.neu.cn`.
+Please feel free to contact me by email at `zhengyujiao@mails.neu.cn`. -->
 
 📬 联系我
 ======
