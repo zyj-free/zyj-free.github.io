@@ -8,31 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-I am **Zheng Yujiao**, currently a junior undergraduate student majoring in **Computer Science and Technology** at [Northeastern University](http://www.neu.edu.cn/). 
+<!-- I am **Zheng Yujiao**, currently a junior undergraduate student majoring in **Computer Science and Technology** at [Northeastern University](http://www.neu.edu.cn/).  -->
+我是**郑钰娇**,目前是[东北大学](http://www.neu.edu.cn/)计算机科学与技术的一名大三学生。
 
 <!-- I am thrilled to announce that I will be continuing my academic journey as a **Graduate Student** starting in [Month, Year, e.g., September 2026] at [Name of Your Future University/Institute, if decided, otherwise remove this part]. My long-term goal is to bridge the gap between theoretical algorithms and real-world applications, contributing to the advancement of intelligent systems. -->
 
-My current work focuses on:
+<!-- My current work focuses on:
 - Research direction 1 : **Vision-and-Language Navigation (VLN)**, Developing robust agents for complex 3D environments using Reinforcement Learning and Multi-modal Fusion.
 - Research direction 2 : **Efficient LLM Deployment & Fine-tuning**, Optimizing Large Language Models for edge/cloud deployment, including quantization, LoRA fine-tuning, and latency reduction.
-- Research direction 3 : **Computer Vision (CV)**, Advanced image segmentation (U-Net), object detection (YOLO series), and multi-modal perception for real-world applications.
+- Research direction 3 : **Computer Vision (CV)**, Advanced image segmentation (U-Net), object detection (YOLO series), and multi-modal perception for real-world applications. -->
 
+我的当前工作主要聚焦于以下几个方向：
+- 研究方向 1：**视觉与语言导航（VLN）**，利用强化学习和多模态融合技术，聚焦目标导航，开发能够在复杂 3D 环境中实现有效导航功能的智能体。
+- 研究方向 2：**高效大语言模型部署与微调**，针对端侧或云端部署对大语言模型进行优化，具体涉及量化、LoRA 微调以及延迟降低等技术。
+- 研究方向 3：**计算机视觉**，专注于面向实际应用的高级图像分割（如 U-Net）、目标检测（如 YOLO 系列）以及多模态感知研究。
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 
-Skills
+<!-- Skills
 ======
 - **Programming**: Python, C++, LaTeX
 - **AI & Deep Learning**: Reinforcement Learning, CNN, U-Net, Transformer, LLM Cloud Deployment
 - **Mathematics**: Linear Algebra, Probability Theory, Advanced Calculus, Discrete Mathematics
-- **Tools**: Origin (Scientific Plotting), Git, Linux/Cloud Environment
-
+- **Tools**: Origin (Scientific Plotting), Git, Linux/Cloud Environment -->
+🛠️ 技能栈
+======
+- **💻编程语言**：Python、C++、LaTeX
+- **🧠 AI & 深度学习** :强化学习, CNN, U-Net, Transformer, LLM云端部署
+- **📐 数学基础**:线性代数, 概率论, 高等数学, 离散数学
+- **⚙️ 工具**:Origin, Git, Linux/云环境
 
 Contact
 ======
 Please feel free to contact me by email at `zhengyujiao@mails.neu.cn`.
+
+📬 联系我
+======
+欢迎随时通过邮件与我交流：`15132379998@163.com`
 
 <!-- A data-driven personal website
 ======
