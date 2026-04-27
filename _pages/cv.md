@@ -76,9 +76,6 @@ redirect_from:
 
 
 
-
-
-
 <!-- 
 Education
 ======

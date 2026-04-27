@@ -35,6 +35,10 @@ redirect_from:
 - **AI & Deep Learning**: Reinforcement Learning, CNN, U-Net, Transformer, LLM Cloud Deployment
 - **Mathematics**: Linear Algebra, Probability Theory, Advanced Calculus, Discrete Mathematics
 - **Tools**: Origin (Scientific Plotting), Git, Linux/Cloud Environment -->
+
+<!-- Contact
+======
+Please feel free to contact me by email at `zhengyujiao@mails.neu.cn`. -->
 🛠️ 技能栈
 ======
 - **💻编程语言**：Python、C++、LaTeX
@@ -42,9 +46,7 @@ redirect_from:
 - **📐 数学基础**:线性代数, 概率论, 高等数学, 离散数学
 - **⚙️ 工具**:Origin, Git, Linux/云环境
 
-<!-- Contact
-======
-Please feel free to contact me by email at `zhengyujiao@mails.neu.cn`. -->
+
 
 📬 联系我
 ======
