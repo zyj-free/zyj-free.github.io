@@ -9,14 +9,26 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zheng Yujiao"
+title                    : "郑钰娇"
 title_separator          : "-"
-name                     : &name "Zheng Yujiao"
+name                     : &name "郑钰娇"
 description              : &description "Junior at Northeastern University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zyj-free.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zyj-free/zyj-free.github.io"
+# 👇👇👇 这是解决公式的关键配置 👇👇👇
+# 1. 启用 kramdown 解析器
+markdown: kramdown
+
+kramdown:
+  # 2. 启用 mathjax 引擎
+  math_engine: mathjax
+  # 3. 配置 mathjax 选项（防止 $ 符号被转义）
+  math_engine_opts:
+    # 这里的配置通常由 CDN 脚本处理，这里留空或根据需要配置
+  syntax_highlighter: rouge
+# 👆👆👆 配置结束 👆👆👆
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +36,13 @@ repository               : "zyj-free/zyj-free.github.io"
 author:
   # Biographic information
   avatar           : "zyj.jpg"
-  name             : "Zheng Yujiao"
+  name             : "郑钰娇"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"//研究方向
   location         : "Earth"
-  employer         : "Northeastern University"
+  employer         : "东北大学"
   uri              : https://zyj-free.github.io/
-  email            : "zhengyujiao@mails.neu.cn" 
+  email            : "15132379998@163.com" 
 
   # Academic websites
   academia         : # URL
@@ -199,15 +211,14 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
+# Markdown Processing
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
+# Kramdown 再次详细配置（防止冲突）
 kramdown:
   input: GFM
   hard_wrap: false
@@ -217,6 +228,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
 
 
 # These settings control the types of collections used by the template
