@@ -19,10 +19,17 @@ redirect_from:
 - Research direction 3 : **Computer Vision (CV)**, Advanced image segmentation (U-Net), object detection (YOLO series), and multi-modal perception for real-world applications. -->
 
 我的当前工作主要聚焦于以下几个方向：
-- 研究方向 1：**视觉与语言导航（VLN）**，利用强化学习和多模态融合技术，聚焦目标导航，开发能够在复杂 3D 环境中实现有效导航功能的智能体。
-- 研究方向 2：**高效大语言模型部署与微调**，针对端侧或云端部署对大语言模型进行优化，具体涉及量化、LoRA 微调以及延迟降低等技术。
+
+- 研究方向 1：**决策智能与强化学习**，专注于深度强化学习（DRL）及其在复杂博弈与动态系统中的决策优化。通过融合蒙特卡洛树搜索（MCTS）等高效探索机制，解决稀疏奖励环境下的策略收敛难题，致力于提升智能体在长周期任务中的鲁棒性与泛化能力。
+
+- 研究方向 2： **边缘智能与高效算法设计**，致力于资源受限场景下的轻量化AI系统研发。研究高维向量的高效搜索与索引技术（如基于双锚点划分的近似最近邻搜索），以及面向边缘设备的模型压缩与实时推理优化，旨在突破内存瓶颈，赋能端侧实时数据处理与智能检索。
+
 - 研究方向 3：**计算机视觉**，专注于面向实际应用的高级图像分割（如 U-Net）、目标检测（如 YOLO 系列）以及多模态感知研究。
 
+- 研究方向 4：**AI for Science**，AI大模型在垂直领域的科学发现。AI For Meteorology / AI For Finance
+
+
+**
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
