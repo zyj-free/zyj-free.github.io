@@ -1,5 +1,5 @@
 ---
-title: "WeatherBench2 上的 Mamba 风场预测：轻量化时空加权网络"
+title: "AI4Meteorology : 基于 Mamba 的轻量化时空加权风场预测模型"
 excerpt: "提出了一种基于 Mamba 与轻量化时空加权网络的风场预测方法，在 WeatherBench2 数据集上实现了高精度与高效率的平衡。<br/><img src='/images/mamba+unet.bmp'>"
 collection: portfolio
 tags:
